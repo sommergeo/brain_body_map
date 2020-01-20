@@ -41,7 +41,7 @@
 
 	// Create Leaflet map
 	var map = L.map('mapid').setView([28, 80], 3);
-	map.attributionControl.addAttribution('<a href="http:www.roceeh.net" target="_blank">ROCEEH</a>, Map: CC-BY-SA 4.0 by <a href="https://github.com/sommergeo" target="_blank">C. Sommer</a>, Content: tba (M. Will) | <a href="https://thenounproject.com/search/?q=brain&creator=1145943&i=2805277" target="_blank">Brain</a> icon by Adrien Coquet and <a href="https://thenounproject.com/search/?q=man&i=347814" target="_blank">Body</a> icon by Brad Avison and from the Noun Project');
+	map.attributionControl.addAttribution('<a href="http:www.roceeh.net" target="_blank">ROCEEH</a>, Content: tba (M. Will), Map: CC-BY-SA 4.0 by <a href="https://github.com/sommergeo" target="_blank">C. Sommer</a> | <a href="https://thenounproject.com/search/?q=brain&creator=1145943&i=2805277" target="_blank">Brain</a> icon by Adrien Coquet and <a href="https://thenounproject.com/search/?q=man&i=347814" target="_blank">Body</a> icon by Brad Avison from the Noun Project');
 	
 	
 	// Add basemaps
@@ -380,15 +380,15 @@
 			//'6 <img src="markers/noun_Brain_2805277.svg" alt="Brain size 6" width="24" height="24"> <img src="markers/noun_Man_347814.svg" alt="Body size 6" width="24" height="24"><br>' +
 			//'7 <img src="markers/noun_Brain_2805277.svg" alt="Brain size 7" width="27" height="27"> <img src="markers/noun_Man_347814.svg" alt="Body size 7" width="27" height="27"><br>' +
 			//'8 <img src="markers/noun_Brain_2805277.svg" alt="Brain size 8" width="30" height="30"> <img src="markers/noun_Man_347814.svg" alt="Body size 8" width="30" height="30"><br>' +
-			'<table style="width:100%", text-align: center><tr><th>Age Group</th><th>Brain</th><th>Body</th></tr>' +
-			'<tr><td>1</td><td><img src="markers/noun_Brain_2805277.svg" alt="Brain size 1" width="10" height="10"></td><td><img src="markers/noun_Man_347814.svg" alt="Brain size 1" width="10" height="10"></td></tr>' +
-			'<tr><td>2</td><td><img src="markers/noun_Brain_2805277.svg" alt="Brain size 1" width="12" height="12"></td><td><img src="markers/noun_Man_347814.svg" alt="Brain size 1" width="12" height="12"></td></tr>' +
-			'<tr><td>3</td><td><img src="markers/noun_Brain_2805277.svg" alt="Brain size 1" width="15" height="15"></td><td><img src="markers/noun_Man_347814.svg" alt="Brain size 1" width="15" height="15"></td></tr>' +
-			'<tr><td>4</td><td><img src="markers/noun_Brain_2805277.svg" alt="Brain size 1" width="18" height="18"></td><td><img src="markers/noun_Man_347814.svg" alt="Brain size 1" width="18" height="18"></td></tr>' +
-			'<tr><td>5</td><td><img src="markers/noun_Brain_2805277.svg" alt="Brain size 1" width="21" height="21"></td><td><img src="markers/noun_Man_347814.svg" alt="Brain size 1" width="21" height="21"></td></tr>' +
-			'<tr><td>6</td><td><img src="markers/noun_Brain_2805277.svg" alt="Brain size 1" width="24" height="24"></td><td><img src="markers/noun_Man_347814.svg" alt="Brain size 1" width="24" height="24"></td></tr>' +
-			'<tr><td>7</td><td><img src="markers/noun_Brain_2805277.svg" alt="Brain size 1" width="27" height="27"></td><td><img src="markers/noun_Man_347814.svg" alt="Brain size 1" width="27" height="27"></td></tr>' +
-			'<tr><td>8</td><td><img src="markers/noun_Brain_2805277.svg" alt="Brain size 1" width="30" height="30"></td><td><img src="markers/noun_Man_347814.svg" alt="Brain size 1" width="30" height="30"></td></tr>' +
+			'<table><tr style="text-align:center"><th>Age Groups</th><th>Brain</th><th>Body</th></tr>' +
+			'<tr><td style="text-align:left">1 =  10.000-100.000 kya</td><td><img src="markers/noun_Brain_2805277.svg" alt="Brain size 1" width="10" height="10"></td><td><img src="markers/noun_Man_347814.svg" alt="Brain size 1" width="10" height="10"></td></tr>' +
+			'<tr><td style="text-align:left">2 = 100.001-200.000 kya</td><td><img src="markers/noun_Brain_2805277.svg" alt="Brain size 1" width="12" height="12"></td><td><img src="markers/noun_Man_347814.svg" alt="Brain size 1" width="12" height="12"></td></tr>' +
+			'<tr><td style="text-align:left">3 = 200.001-300.000 kya</td><td><img src="markers/noun_Brain_2805277.svg" alt="Brain size 1" width="15" height="15"></td><td><img src="markers/noun_Man_347814.svg" alt="Brain size 1" width="15" height="15"></td></tr>' +
+			'<tr><td style="text-align:left">4 = 300.001-400.000 kya</td><td><img src="markers/noun_Brain_2805277.svg" alt="Brain size 1" width="18" height="18"></td><td><img src="markers/noun_Man_347814.svg" alt="Brain size 1" width="18" height="18"></td></tr>' +
+			'<tr><td style="text-align:left">5 = 400.001-500.000 kya</td><td><img src="markers/noun_Brain_2805277.svg" alt="Brain size 1" width="21" height="21"></td><td><img src="markers/noun_Man_347814.svg" alt="Brain size 1" width="21" height="21"></td></tr>' +
+			'<tr><td style="text-align:left">6 = 500.001-600.000 kya</td><td><img src="markers/noun_Brain_2805277.svg" alt="Brain size 1" width="24" height="24"></td><td><img src="markers/noun_Man_347814.svg" alt="Brain size 1" width="24" height="24"></td></tr>' +
+			'<tr><td style="text-align:left">7 = 600.001-700.000 kya</td><td><img src="markers/noun_Brain_2805277.svg" alt="Brain size 1" width="27" height="27"></td><td><img src="markers/noun_Man_347814.svg" alt="Brain size 1" width="27" height="27"></td></tr>' +
+			'<tr><td style="text-align:left">8 = 700.001-800.000 kya</td><td><img src="markers/noun_Brain_2805277.svg" alt="Brain size 1" width="30" height="30"></td><td><img src="markers/noun_Man_347814.svg" alt="Brain size 1" width="30" height="30"></td></tr>' +
 			'</tr></table>'
 			;
 			
@@ -399,7 +399,6 @@
 legend.addTo(map);
 	
 	
-
 	
 </script>
 	
