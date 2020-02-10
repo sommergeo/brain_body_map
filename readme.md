@@ -8,7 +8,7 @@ This is a web map application to visualize the global distribution of brain and 
 
 *Screenshot of the web map* 
 
-The live map is available at [http://www.roceeh.uni-tuebingen.de/maps/brain_body_map/]() and it is published as software at [10.5281/zenodo.3660414](https://doi.org/10.5281/zenodo.3660414).
+The live map is available at [http://www.roceeh.uni-tuebingen.de/maps/brain_body_map/](http://www.roceeh.uni-tuebingen.de/maps/brain_body_map/) and it is published as software at [10.5281/zenodo.3660414](https://doi.org/10.5281/zenodo.3660414).
 
 ## Copyright
 The application is built in HTML5, CSS and JavaScript and uses the following libraries:
