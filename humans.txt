@@ -1,7 +1,7 @@
 /* Developers */
 	WebGIS Developer: Christian Sommer
 	Github: https://github.com/sommergeo/
-	Homepage: http://sommer-geo.com
+	Homepage: http://sommergeo.com
 	Heidelberg Academy of Sciences: https://www.hadw-bw.de/mitarbeiter/christian-sommer
 	University of Tuebingen: https://uni-tuebingen.de/de/92950
 	Twitter: @sommer-geo
