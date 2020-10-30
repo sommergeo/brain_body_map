@@ -1,4 +1,4 @@
-/* Developers */
+/* Developer */
 	WebGIS Developer: Christian Sommer
 	Github: https://github.com/sommergeo/
 	Homepage: http://sommergeo.com
@@ -6,6 +6,3 @@
 	University of Tuebingen: https://uni-tuebingen.de/de/92950
 	Twitter: @sommer-geo
 	From:  Heidelberg Academy of Sciences, Germany and University of Tübingen, Germany
-	
-	Print map designer: Hanna Pehnert
-	From:  University of Tübingen, Germany

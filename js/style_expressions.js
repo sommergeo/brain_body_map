@@ -102,6 +102,19 @@ function exp_Br8(context) {
 }
 
 
+function exp_Br9(context) {
+    // layer = 'Brain_size_data' AND "Age group" = 9
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return ((feature.properties['layer']  == 'Brain_size_data') && (feature.properties['Age group']  == 9));
+    } else {
+        return ((feature['layer']  == 'Brain_size_data') && (feature['Age group']  == 9));
+    }
+}
+
+
 function exp_Bo1(context) {
     // layer = 'Body_size_data' AND "Age group" = 1
 
@@ -202,5 +215,18 @@ function exp_Bo8(context) {
         return ((feature.properties['layer']  == 'Body_size_data') && (feature.properties['Age group']  == 8));
     } else {
         return ((feature['layer']  == 'Body_size_data') && (feature['Age group']  == 8));
+    }
+}
+
+
+function exp_Bo9(context) {
+    // layer = 'Body_size_data' AND "Age group" = 9
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return ((feature.properties['layer']  == 'Body_size_data') && (feature.properties['Age group']  == 9));
+    } else {
+        return ((feature['layer']  == 'Body_size_data') && (feature['Age group']  == 9));
     }
 }
