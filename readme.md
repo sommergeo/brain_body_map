@@ -3,7 +3,7 @@
 
 
 This is a web map application to visualize the global distribution of brain and body sizes of Homo finds from the Middle to Late Pleistocene. The underlying anthropological data are published and licensed in 
-> Will, M., Krapp, M., Stock, J.T. et al. (2021). Different environmental variables predict body and brain size evolution in Homo. Nat Commun 12, 4116 (2021). [https://doi.org/10.1038/s41467-021-24290-7]()
+> Will, M., Krapp, M., Stock, J.T. et al. (2021). Different environmental variables predict body and brain size evolution in Homo. Nat Commun 12, 4116 (2021). [https://doi.org/10.1038/s41467-021-24290-7](https://doi.org/10.1038/s41467-021-24290-7)
 
 ![Screenshot of the brain-body-map](/print/screenshot.png)
 
