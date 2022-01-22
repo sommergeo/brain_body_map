@@ -3,7 +3,7 @@
 
 
 This is a web map application to visualize the global distribution of brain and body sizes of Homo finds from the Middle to Late Pleistocene. The underlying anthropological data are published and licensed in 
-> Manuel Will, Mario Krapp, Jay T. Stock, Andrea Manica (tba): Different environmental variables influence body and brain size evolution in Homo
+> Will, M., Krapp, M., Stock, J.T. et al. Different environmental variables predict body and brain size evolution in Homo. Nat Commun 12, 4116 (2021). [](https://doi.org/10.1038/s41467-021-24290-7)
 
 ![Screenshot of the brain-body-map](/print/screenshot.png)
 
@@ -26,4 +26,4 @@ The web map includes content from
 10.5281/zenodo.3660414
 
 Please cite
-> Christian Sommer & Hanna Pehnert. (2020, February 9). A web map application to visualize Middle to Late Pleistocene Homo finds (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3660414
+> Christian Sommer & Hanna Pehnert. (2020). A web map application to visualize Middle to Late Pleistocene Homo finds (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3660414
