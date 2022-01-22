@@ -17,7 +17,7 @@ The application is built in HTML5, CSS and JavaScript and uses the following lib
 - [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster)
 
 The web map includes content from
-- Will, M. et al. (unpub.): tba.
+- Will, M. et al. (2021). Different environmental variables predict body and brain size evolution in Homo. Nat Commun 12, 4116 (2021). https://doi.org/10.1038/s41467-021-24290-7
 - [© OpenStreetMap-Contributors](https://www.openstreetmap.org/copyright)
 - Icons from the [Noun Project](https://thenounproject.com) by [Adrien Coquet](https://thenounproject.com/coquet_adrien/) and [Brad Avison](https://thenounproject.com/pixelpusher/)
 
